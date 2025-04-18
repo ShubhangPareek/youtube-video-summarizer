@@ -1,14 +1,3 @@
-Here’s a complete and professional README.md file in Markdown format for your YouTube Video Summarizer project. This includes:
-	•	Project overview
-	•	Features
-	•	Tech stack (models, libraries, tools)
-	•	Setup instructions
-	•	How to use
-	•	Folder structure
-	•	Contribution and license
-
-⸻
-
 
 
 # 🎥 YouTube Video Summarizer & Quiz Generator
